@@ -165,6 +165,12 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .w3-hover-none:hover{box-shadow:none!important}
 .my-name{text-decoration: none; font-weight: bolder; display: block; margin: 0.6rem;}
 .my-name:hover{color: #fff; background-color: #000; padding: 0.5rem;}
+/*Sebastian lopez giraldo-- estilos del header*/
+header{ 
+    background:  linear-gradient(rgba(40, 53, 66, 0.8), rgba(26, 75, 236, 0)), url();
+    font-family:serif;
+    
+  }
 
 /* Colors */
 .w3-amber,.w3-hover-amber:hover{color:#000!important;background-color:#ffc107!important}
